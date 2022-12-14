@@ -1,0 +1,1 @@
+Só fazer ./q1 para questao 1,./q2 para questao 2 e assim sucessivamente

@@ -1,0 +1,1 @@
+Só fazer ./Trabalho2(Já esta com os teste,só ver os 1s rodando)
